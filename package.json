@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Billy <billypatrick767@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
   "dependencies": {
     "lodash": "^4.17.21",
     "puppeteer": "^14.1.1"
